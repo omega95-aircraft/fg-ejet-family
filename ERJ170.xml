@@ -63,7 +63,7 @@
    <emptywt unit="LBS" > 44600 </emptywt>
 <!-- Center of Gravity (Approximate) = (-4.44,0,-0.18) m -->
    <location name="CG" unit="IN">
-     <x> -40.936 </x>
+     <x> -35.936 </x>
      <y>   0.00 </y>
      <z> -7.092 </z>
    </location>
@@ -299,8 +299,8 @@
        <y> 0 </y>
        <z> 54.372 </z>
      </location>
-     <capacity unit="KG"> 800 </capacity>
-     <contents unit="KG"> 1335 </contents>
+     <capacity unit="KG"> 1335 </capacity>
+     <contents unit="KG"> 800 </contents>
   </tank>
 
 </propulsion>

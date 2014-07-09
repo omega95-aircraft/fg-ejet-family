@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+for img in *.png; do
+
+	convert "$img" -crop '760x540+102x+0' -resize '256x256!' -rotate 180 "Crop-Resized/RESIZED_$img";
+
+done
+
+cd "Crop-Resized";
+
+montage *.png -geometry '+0+0'  "compiled.png"

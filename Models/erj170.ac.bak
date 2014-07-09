@@ -38110,7 +38110,7 @@ refs 4
 68 0.936445 0.540093
 kids 0
 OBJECT poly
-name "windshield"
+name "cylinder"
 loc -3.64423 1.33223 0.000708342
 crease 45.000000
 numvert 38

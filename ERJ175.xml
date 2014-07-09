@@ -64,7 +64,7 @@
    <emptywt unit="LBS" > 46600 </emptywt>
 <!-- Center of Gravity (Approximate) = (-4.44,0,-0.18) m -->
    <location name="CG" unit="IN">
-     <x> -40.936 </x>
+     <x> -35.936 </x>
      <y>   0.00 </y>
      <z> -7.092 </z>
    </location>

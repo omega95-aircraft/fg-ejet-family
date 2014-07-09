@@ -7,6 +7,7 @@
 	<effect>
 			<inherits-from>Effects/model-transparent</inherits-from>
 			<object-name>windshield</object-name>
+			<object-name>land-light-r</object-name>
 		</effect>
 
 	<!-- Lightmap -->

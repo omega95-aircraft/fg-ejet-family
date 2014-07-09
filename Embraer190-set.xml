@@ -34,6 +34,10 @@
                 <position-z-m> 0.034</position-z-m>
                 <jetway-hood-deg>8</jetway-hood-deg>
             </door>
+            <ramp>
+				<x-m type="float">-13.11</x-m>
+				<class type="string">3</class>
+		    </ramp>
 		<livery>
   		<file type="string"/>
  		</livery>
